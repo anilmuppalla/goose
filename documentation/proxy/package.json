@@ -1,0 +1,11 @@
+{
+  "name": "docs-proxy",
+  "version": "1.0.0",
+  "description": "Simple proxy server for docs site",
+  "main": "proxy.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^3.0.0",
+    "cors": "^2.8.5"
+  }
+}
